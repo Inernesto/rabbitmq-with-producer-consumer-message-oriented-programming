@@ -27,3 +27,5 @@ config.properties file:
 This configuration file contains various settings and parameters required by the different components of the system. It provides flexibility and ease of configuration, allowing for easy customization of the system’s behavior. 
 
 As a result of this implementation, we have achieved seamless communication and efficient data processing. This project architecture promotes modularity, scalability, and maintainability by adhering to best practices in distributed systems design. By leveraging modern technologies such as RabbitMQ and Java, we empower users to retrieve and analyze education cost statistics with ease.
+
+#### NB: To run this code, you need to have rabbitmq & erlang installed and running in your system environment.
