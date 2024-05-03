@@ -15,7 +15,7 @@ import com.rabbitmq.client.Channel;
 
 public class ProducerStub {
     private static final String CONFIG_FILE = "config/config.properties";
-    private static final String mongoURL = "mongodb+srv://ernestinyama-2:2aRBRLPi9AnzLZ8E@assignment-2-practice.jwf37e8.mongodb.net/?retryWrites=true&w=majority&appName=Assignment-2-practice";
+    private static final String mongoURL = "Your-Mongo-DB-URL-Here";
     private final static String HOST = "localhost";
     private final static int PORT = 5672;
     
